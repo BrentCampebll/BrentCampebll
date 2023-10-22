@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/BrentCampebll/ticket-lifecycle)
 
 - <b>VPN Security</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BrentCampebll/VPN-Security)
+  - [Installing & testing a VPN on a Virtual Machine](https://github.com/BrentCampebll/VPN-Security)
   
 - <b>Active Directory Deploymet</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BrentCampebll/AD-Setup)
