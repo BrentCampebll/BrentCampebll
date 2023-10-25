@@ -12,8 +12,6 @@
   
 - <b>Active Directory Deploymet</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BrentCampebll/AD-Setup)
-  - [Connecting Virtual Machines in Active Directory](https://github.com/BrentCampebll/Join-Client)
-  - [Monitoring DNS traffic and Access](https://github.com/BrentCampebll/DNS-Traffic)
   - [File sharing and Access in Active directory](https://github.com/BrentCampebll/File-share)
 
 <h2>🤳Connect with me:</h2>
